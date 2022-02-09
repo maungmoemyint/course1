@@ -1,2 +1,3 @@
 This is the first line of text file.
 This is the second line of text file.
+I want to apply the knowledge from the course for the time series data analyses of satellite images.
